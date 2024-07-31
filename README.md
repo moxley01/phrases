@@ -13,14 +13,14 @@ A statement or conclusion that does not logically follow from the previous argum
 ### 3. Chesterton's Fence
 The principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 
-### 4. Occam's Razor
-A problem-solving principle that suggests the simplest solution is usually the best, provided it adequately addresses the problem.
+### 4. Metcalfe's Law
+The value of a telecommunications network is proportional to the square of the number of connected users of the system.
 
 ### 5. Gold Plating
 Adding unnecessary features to a project, increasing complexity and cost without proportional benefits.
 
-### 6. Pareto Principle
-The idea that roughly 80% of the effects come from 20% of the causes, often used to prioritize tasks in project management.
+### 6. Gall's Law
+A complex system that works is invariably found to have evolved from a simple system that worked.
 
 ### 7. Heisenbug
 A software bug that seems to disappear or change behavior when one attempts to study it.
@@ -44,7 +44,7 @@ Attempting to solve a problem by taking on too much at once, rather than breakin
 The practice of using one's own products or services to test and validate them before releasing to customers.
 
 ### 14. Bike-shedding
-The tendency to spend time on trivial details while important matters are inadequately attended to.
+The tendency to spend discussion time on trivial details while important matters are inadequately attended to.
 
 ### 15. Single Point of Failure (SPOF)
 A part of a system that, if it fails, will stop the entire system from working, highlighting the need for redundancy.
@@ -70,8 +70,135 @@ A process conducted after project completion to analyze what went wrong and what
 ### 22. Scalability
 The capability of a system, network, or process to handle a growing amount of work or its potential to be enlarged to accommodate that growth.
 
-### 23. Waterfall Model
-A sequential design process, often used in software development, where progress flows steadily downwards through phases like a waterfall.
+### 23. Catch-22
+A dilemma or difficult circumstance from which there is no escape because of mutually conflicting conditions.
+
+### 24. KISS Principle
+"Keep It Simple, Stupid" - A design principle that states simplicity should be a key goal, avoiding unnecessary complexity.
+
+### 25. Principle of Least Astonishment
+A principle stating that a component of a system should behave in a way that most users will find least surprising.
+
+### 26. Iron Triangle
+A model of the constraints of project management: scope, time, and cost, where changes to one constraint affect the others.
+
+### 27. Law of Instrument
+"If all you have is a hammer, everything looks like a nail." - The tendency to rely on a familiar tool or approach.
+
+### 28. Broken Windows Theory
+The idea that visible signs of disorder and misbehavior in an environment encourage further disorder and misbehavior.
+
+### 29. Goodhart's law
+When a measure becomes a target, it ceases to be a reliable measure ("story points", anyone?).
+
+### 30. Parkinson's Law
+The adage that "work expands to fill the time available for its completion," often used to highlight inefficiencies in time management.
+
+### 31. Brooks's Law
+The adage that adding more people to a late software project delays it even further.
+
+### 32. Conway's Law
+The principle that organizations design systems that mirror their own communication structure.
+
+### 33. Dunning-Kruger Effect
+A cognitive bias where people with limited knowledge in a domain overestimate their competence in that area.
+
+### 34. Rubber Duck Debugging
+The practice of explaining code line by line to an inanimate object to find errors.
+
+### 35. Occam's Razor
+The problem-solving principle that the simplest explanation tends to be the correct one.
+
+### 36. Premature Optimization
+Optimizing a system or code before it's necessary, often increasing complexity without significant benefits.
+
+### 37. Bottleneck
+A point of congestion in a system that occurs when workloads arrive too quickly for the production process to handle.
+
+### 38. The Peter Principle
+The concept that people in a hierarchy tend to rise to their level of incompetence.
+
+### 39. Sunk Cost Fallacy
+The tendency to continue an endeavor due to past investments, despite new evidence suggesting it's no longer viable.
+
+### 40. Hofstadter's Law
+It always takes longer than you expect, even when you take into account Hofstadter's Law.
+
+### 41. Separation of Concerns
+A design principle for separating a program into distinct sections, each addressing a separate concern.
+
+### 42. DRY Principle
+"Don't Repeat Yourself" - A principle aimed at reducing repetition of software patterns.
+
+### 43. Feature Creep
+The ongoing expansion or addition of new features in a product, especially in software development.
+
+### 44. Analysis Paralysis
+The state of over-analyzing a situation so that a decision or action is never taken.
+
+### 45. Pareto Principle (80/20 Rule)
+The observation that roughly 80% of consequences come from 20% of causes.
+
+### 46. Bus Factor
+The minimum number of team members that have to disappear before a project stalls due to lack of knowledge.
+
+### 47. Worse is Better
+The idea that sometimes a simpler, less perfect solution is preferable to a more complex, theoretically better one.
+
+### 48. Survivorship Bias
+The logical error of focusing on things that survived a selection process, overlooking those that did not.
+
+### 49. Robustness Principle
+Be conservative in what you do, be liberal in what you accept from others.
+
+### 50. Kerchkhoff's Principle
+A cryptographic system should be secure even if everything about the system, except the key, is public knowledge.
+
+### 51. Rabbit Hole
+Getting lost in the details of a problem while losing sight of the main objective.
+
+### 52. Low-Hanging Fruit
+The easiest or most obvious tasks or solutions that can be tackled first.
+
+### 53. Reinventing the wheel
+Unnecessarily re-engineering a solution that already exists.
+
+### 54. Moving the goalposts
+Changing the criteria of a process or decision when the original goals are met.
+
+### 55. Throwing the Baby Out with the Bathwater
+Discarding something valuable along with something undesirable.
+
+### 56. Cutting corners
+Skipping important steps to save time or effort, often leading to problems later.
+
+### 57. Can't See the Forest for the Trees
+Becoming so focused on details that one loses sight of the overall situation.
+
+### 58. Kicking the Can Down the Road
+Postponing dealing with a problem, hoping it will resolve itself or become someone else's responsibility.
+
+### 59. Opening Pandora's Box
+Starting a process that will cause many unforeseen problems.
+
+### 60. Death by a Thousand Cuts
+Failing due to an accumulation of small issues rather than one major problem.
+
+### 61. Chicken and Egg Problem
+A situation where it's unclear which of two interrelated events should happen first.
+
+### 62. Achilles Heel
+A fundamental weakness or vulnerability in an otherwise strong system or project.
+
+### 63. Pyrrhic Victory
+A success that inflicts such a devastating toll that it carries the implication of defeat.
+
+### 64. Silver Bullet
+A simple and seemingly magical solution to a complicated problem.
+
+### 65. Not Invented Here (NIH)
+The tendency to avoid using or buying existing products or solutions because of their external origins.
+
 
 ---
 
