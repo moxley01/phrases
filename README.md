@@ -94,7 +94,7 @@ When a measure becomes a target, it ceases to be a reliable measure ("story poin
 ### 30. Parkinson's Law
 The adage that "work expands to fill the time available for its completion," often used to highlight inefficiencies in time management.
 
-### 31. Brooks's Law
+### 31. Brooks' Law
 The adage that adding more people to a late software project delays it even further.
 
 ### 32. Conway's Law
