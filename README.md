@@ -67,8 +67,8 @@ Refers to a product or technology so new that it has a high risk of being unreli
 ### 21. Post-Mortem
 A process conducted after project completion to analyze what went wrong and what can be improved for future projects.
 
-### 22. Scalability
-The capability of a system, network, or process to handle a growing amount of work or its potential to be enlarged to accommodate that growth.
+### 22. Cargo Cult Programming
+The ritual inclusion of code or program structures that serve no real purpose, based on blind faith that it's necessary.
 
 ### 23. Catch-22
 A dilemma or difficult circumstance from which there is no escape because of mutually conflicting conditions.
