@@ -199,6 +199,8 @@ A simple and seemingly magical solution to a complicated problem.
 ### 65. Not Invented Here (NIH)
 The tendency to avoid using or buying existing products or solutions because of their external origins.
 
+### 66. Divide And Conquer
+The practice of splitting up a task, and devoting undivided attention to each, thereby completing the task.
 
 ---
 
